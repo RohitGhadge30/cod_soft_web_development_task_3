@@ -14,7 +14,7 @@ h1{
     background: #3d4543;
     padding: 10px;
     border-radius: 20px;
-    display: inline-block;
+    display: inline-block; 
 }
 #answer{
     background: #bccd95;
